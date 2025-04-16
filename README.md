@@ -1,7 +1,3 @@
-Great! Here's a **clean, professional comparison summary** you can use in your final project or README. This will highlight the **core findings** of your project and explain **why LSTM outperformed ARIMA**.
-
----
-
 ## 📊 Final Comparison: LSTM vs ARIMA for Stock Price Prediction
 
 This project aims to evaluate and compare two time series forecasting models — **LSTM (Long Short-Term Memory)** and **ARIMA (AutoRegressive Integrated Moving Average)** — for predicting stock prices of 10 major tech companies using data from **April 2015 to March 2025**.
