@@ -1,4 +1,14 @@
-## 📊 Final Comparison: LSTM vs ARIMA for Stock Price Prediction
+### 🏁 Final Verdict
+
+| Model  | Flexibility | Handles Non-Linear Patterns | Adaptability to Volatility | Overall Accuracy |
+|--------|-------------|-----------------------------|-----------------------------|------------------|
+| LSTM   | High        | ✅ Yes                      | ✅ Yes                      | ⭐ High          |
+| ARIMA  | Low         | ❌ No                       | ❌ No                       | 🚫 Lower        |
+
+
+
+
+## 📊Comparison: LSTM vs ARIMA for Stock Price Prediction
 
 This project aims to evaluate and compare two time series forecasting models — **LSTM (Long Short-Term Memory)** and **ARIMA (AutoRegressive Integrated Moving Average)** — for predicting stock prices of 10 major tech companies using data from **April 2015 to March 2025**.
 
@@ -36,13 +46,7 @@ This project aims to evaluate and compare two time series forecasting models —
 
 ---
 
-### 🏁 Final Verdict
-
-| Model  | Flexibility | Handles Non-Linear Patterns | Adaptability to Volatility | Overall Accuracy |
-|--------|-------------|-----------------------------|-----------------------------|------------------|
-| LSTM   | High        | ✅ Yes                      | ✅ Yes                      | ⭐ High          |
-| ARIMA  | Low         | ❌ No                       | ❌ No                       | 🚫 Lower        |
-
+ 
 ---
 
 ### 🔮 Conclusion
